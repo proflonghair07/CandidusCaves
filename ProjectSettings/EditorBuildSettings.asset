@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/OmniclauseSplashScreen.unity
+    guid: 17cf1c50345121445939571123cf9e9c
+  - enabled: 1
+    path: Assets/Scenes/TitleScreen.unity
+    guid: 7be995b509d0a0a4eb41aa86b4c3a0ca
+  - enabled: 1
+    path: Assets/Scenes/HouseInterior.unity
+    guid: f5eeb6443c1ea4349a3162510773fda0
+  - enabled: 1
+    path: Assets/Scenes/Outdoors.unity
+    guid: 9a63389cfb8d5cf45b699d7ec9740c27
+  - enabled: 1
+    path: Assets/Scenes/LevelOne.unity
+    guid: 956b9a8960cdf5b41a8d967d3ff56420
+  - enabled: 1
+    path: Assets/Scenes/HouseEndScene.unity
+    guid: 44c53030928608244b51097c6491a349
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: dc674ca1341ef594888a13410c1b9130
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  m_configObjects: {}
